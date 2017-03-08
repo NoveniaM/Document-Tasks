@@ -1,2 +1,3 @@
 # Document-Tasks
-All my classes document tasks in its final form
+
+This repository will keep all my classes document tasks in the final form and its presentation to the date.
